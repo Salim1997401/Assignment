@@ -1,4 +1,4 @@
-# Assignment  
+# Assignment     INDEX NUMBER: 10659106  
 When does the worst case of Quicksort occur?
 The answer depends on strategy for choosing pivot. In early versions of Quick Sort where leftmost (or rightmost) element is chosen as pivot, the worst occurs in following cases.
 1) Array is already sorted in same order.
